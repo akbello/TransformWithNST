@@ -1,6 +1,7 @@
 # Transform With NST
 
-Main working file: FYP_NST_Model.ipynb
+Main working file: FYP_NST_Model.ipynb (Please download it to view the file)
+or refer to https://colab.research.google.com/drive/1LPhnLxZvSEjLPkOVMSlLPdVDGqxxifYB?usp=sharing
 
 For all experiments on the NST model architecture, please refer to: <br />
 https://colab.research.google.com/drive/1XIN1FV-0cMCdLycvGBT0VCHrWKUHZ730?usp=sharing
